@@ -1,0 +1,28 @@
+{
+  "name": "balek",
+  "version": "1.0.0",
+  "description": "Je m'en bats les couilles, frère. Une librairie pour ne pas se soucier des erreurs.",
+  "main": "src/balek.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattjmattj/balek.git"
+  },
+  "keywords": [
+    "couilles"
+  ],
+  "author": "Matthias Jouan <matthias.jouan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattjmattj/balek/issues"
+  },
+  "homepage": "https://github.com/mattjmattj/balek#readme",
+  "devDependencies": {
+    "should": "^8.1.1"
+  }
+}
